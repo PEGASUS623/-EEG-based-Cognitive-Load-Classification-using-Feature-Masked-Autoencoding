@@ -57,8 +57,6 @@ print(prediction)
 - Optimize hyperparameters using Keras Tuner.
 - Extend to real-time EEG cognitive load assessment.
 
-## Authors
-- **D.EESHA**
 
 ## References
 - Relevant research papers and methodologies used for EEG-based cognitive load classification.
